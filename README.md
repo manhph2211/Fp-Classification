@@ -2,7 +2,7 @@
 
 ## 0. Introduction
 
-- In this basic project, I try to classify 5 football players(classes) using AlexNet. 
+- In this basic project, I tried to classify 5 football players(classes) using AlexNet. 
 
 - With ...
 
@@ -30,7 +30,6 @@ print(paths)
 
 ```
  
-
 - Save & Run `python3 crawl_data.py` to get **100** images of **Neymar**. Do the same things with other players.
 
 - Note that this tool is not always going well because of the uncertainty of Google Image(you'll see!). But anyway, check the data later :smiley:
@@ -39,10 +38,8 @@ print(paths)
 
 ### 2.2 Usage :sleepy:
 
-
-
-## 3. Todo
-
-
-## 4. Contributors
-
+- Following these steps:
+  - Create a folder named `data_after_splitting` and run the file `split_data.py` to split data into 2 common sets : train & val
+  - Run `pip3 install -r requirements.txt`
+  - Run `preprocessing.py`
+  - Run `trainWithCNN.py`
