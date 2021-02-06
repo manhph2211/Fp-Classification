@@ -2,15 +2,19 @@
 
 ## 0. Introduction
 
-- In this basic project, I tried to classify 5 football players(classes) using AlexNet. 
+- In this basic project, I tried to classify 5 football players(classes) using simple form of AlexNet. 
 
-- With ...
 
 ## 1. Required Packages
 
-- Torch
-- Cv2
-- ...
+- matplotlib==3.3.4
+- numpy==1.20.0
+- opencv-python==4.5.1.48
+- scikit-learn==0.24.1
+- torch==1.7.1
+- torchvision==0.8.2
+- tqdm==4.56.0
+
 
 ## 2. Tutorial :smiley:
 
@@ -36,10 +40,14 @@ print(paths)
 
 
 
-### 2.2 Usage :sleepy:
+### 2.2 Usage :raising_hand:
 
 - Following these steps:
   - Create a folder named `data_after_splitting` and run the file `split_data.py` to split data into 2 common sets : train & val
-  - Run `pip3 install -r requirements.txt`
-  - Run `preprocessing.py`
-  - Run `trainWithCNN.py`
+  - Run `pip3 install -r requirements.txt` to get all required packages.
+  - Run `preprocessing.py` to get encoded data
+  - Run `train.py` 
+
+
+### 3. Todo :sleepy:
+
