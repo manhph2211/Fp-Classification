@@ -1,4 +1,4 @@
-# Fp-Classification :rasing_hand:
+# Fp-Classification :raising_hand:
 
 ## 0. Introduction
 
