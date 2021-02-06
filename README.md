@@ -18,7 +18,7 @@
 
 ## 2. Tutorial :smiley:
 
-## 2.1 Crawl data
+### 2.1 Crawl data
 
 - Using google images to get the data. You just need to make a file, `crawl_data.py` for example, then add into it:
 
@@ -49,5 +49,5 @@ print(paths)
   - Run `train.py` 
 
 
-### 3. Todo :sleepy:
+## 3. Todo :sleepy:
 
