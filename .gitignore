@@ -2,7 +2,8 @@
 mypython/
 data/
 data_after_splitting/
-
+X.pt
+y.pt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
