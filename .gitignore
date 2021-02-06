@@ -1,7 +1,7 @@
 # mine
 mypython/
 data/
-data_after_split/
+data_after_splitting/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
