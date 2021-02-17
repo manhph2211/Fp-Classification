@@ -1,4 +1,4 @@
-# Fp-Classification :raising_hand:
+# Img-Classification :raising_hand:
 
 ## 0. Introduction
 
